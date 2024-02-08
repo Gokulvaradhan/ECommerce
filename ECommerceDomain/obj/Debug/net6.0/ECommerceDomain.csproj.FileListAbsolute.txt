@@ -1,0 +1,12 @@
+E:\Gokul\ECommerce\ECommerceDomain\bin\Debug\net6.0\ECommerceDomain.deps.json
+E:\Gokul\ECommerce\ECommerceDomain\bin\Debug\net6.0\ECommerceDomain.dll
+E:\Gokul\ECommerce\ECommerceDomain\bin\Debug\net6.0\ECommerceDomain.pdb
+E:\Gokul\ECommerce\ECommerceDomain\obj\Debug\net6.0\ECommerceDomain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Gokul\ECommerce\ECommerceDomain\obj\Debug\net6.0\ECommerceDomain.AssemblyInfoInputs.cache
+E:\Gokul\ECommerce\ECommerceDomain\obj\Debug\net6.0\ECommerceDomain.AssemblyInfo.cs
+E:\Gokul\ECommerce\ECommerceDomain\obj\Debug\net6.0\ECommerceDomain.csproj.CoreCompileInputs.cache
+E:\Gokul\ECommerce\ECommerceDomain\obj\Debug\net6.0\ECommerceDomain.dll
+E:\Gokul\ECommerce\ECommerceDomain\obj\Debug\net6.0\refint\ECommerceDomain.dll
+E:\Gokul\ECommerce\ECommerceDomain\obj\Debug\net6.0\ECommerceDomain.pdb
+E:\Gokul\ECommerce\ECommerceDomain\obj\Debug\net6.0\ref\ECommerceDomain.dll
+E:\Gokul\ECommerce\ECommerceDomain\obj\Debug\net6.0\ECommerceDomain.csproj.AssemblyReference.cache

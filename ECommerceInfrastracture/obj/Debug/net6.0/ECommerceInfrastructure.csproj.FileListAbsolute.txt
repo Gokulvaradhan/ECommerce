@@ -1,0 +1,17 @@
+E:\Gokul\ECommerce\ECommerceInfrastracture\bin\Debug\net6.0\ECommerceInfrastructure.deps.json
+E:\Gokul\ECommerce\ECommerceInfrastracture\bin\Debug\net6.0\ECommerceInfrastructure.runtimeconfig.json
+E:\Gokul\ECommerce\ECommerceInfrastracture\bin\Debug\net6.0\ECommerceInfrastructure.dll
+E:\Gokul\ECommerce\ECommerceInfrastracture\bin\Debug\net6.0\ECommerceInfrastructure.pdb
+E:\Gokul\ECommerce\ECommerceInfrastracture\bin\Debug\net6.0\ECommerceDomain.dll
+E:\Gokul\ECommerce\ECommerceInfrastracture\bin\Debug\net6.0\ECommerceDomain.pdb
+E:\Gokul\ECommerce\ECommerceInfrastracture\obj\Debug\net6.0\ECommerceInfrastructure.csproj.AssemblyReference.cache
+E:\Gokul\ECommerce\ECommerceInfrastracture\obj\Debug\net6.0\ECommerceInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Gokul\ECommerce\ECommerceInfrastracture\obj\Debug\net6.0\ECommerceInfrastructure.AssemblyInfoInputs.cache
+E:\Gokul\ECommerce\ECommerceInfrastracture\obj\Debug\net6.0\ECommerceInfrastructure.AssemblyInfo.cs
+E:\Gokul\ECommerce\ECommerceInfrastracture\obj\Debug\net6.0\ECommerceInfrastructure.csproj.CoreCompileInputs.cache
+E:\Gokul\ECommerce\ECommerceInfrastracture\obj\Debug\net6.0\ECommerceInfrastructure.csproj.CopyComplete
+E:\Gokul\ECommerce\ECommerceInfrastracture\obj\Debug\net6.0\ECommerceInfrastructure.dll
+E:\Gokul\ECommerce\ECommerceInfrastracture\obj\Debug\net6.0\refint\ECommerceInfrastructure.dll
+E:\Gokul\ECommerce\ECommerceInfrastracture\obj\Debug\net6.0\ECommerceInfrastructure.pdb
+E:\Gokul\ECommerce\ECommerceInfrastracture\obj\Debug\net6.0\ECommerceInfrastructure.genruntimeconfig.cache
+E:\Gokul\ECommerce\ECommerceInfrastracture\obj\Debug\net6.0\ref\ECommerceInfrastructure.dll

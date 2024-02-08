@@ -1,0 +1,17 @@
+E:\Gokul\ECommerce\ECommerceApplication\bin\Debug\net6.0\ECommerceApplication.deps.json
+E:\Gokul\ECommerce\ECommerceApplication\bin\Debug\net6.0\ECommerceApplication.dll
+E:\Gokul\ECommerce\ECommerceApplication\bin\Debug\net6.0\ECommerceApplication.pdb
+E:\Gokul\ECommerce\ECommerceApplication\bin\Debug\net6.0\ECommerceDomain.dll
+E:\Gokul\ECommerce\ECommerceApplication\bin\Debug\net6.0\ECommerceInfrastructure.dll
+E:\Gokul\ECommerce\ECommerceApplication\bin\Debug\net6.0\ECommerceDomain.pdb
+E:\Gokul\ECommerce\ECommerceApplication\bin\Debug\net6.0\ECommerceInfrastructure.pdb
+E:\Gokul\ECommerce\ECommerceApplication\obj\Debug\net6.0\ECommerceApplication.csproj.AssemblyReference.cache
+E:\Gokul\ECommerce\ECommerceApplication\obj\Debug\net6.0\ECommerceApplication.GeneratedMSBuildEditorConfig.editorconfig
+E:\Gokul\ECommerce\ECommerceApplication\obj\Debug\net6.0\ECommerceApplication.AssemblyInfoInputs.cache
+E:\Gokul\ECommerce\ECommerceApplication\obj\Debug\net6.0\ECommerceApplication.AssemblyInfo.cs
+E:\Gokul\ECommerce\ECommerceApplication\obj\Debug\net6.0\ECommerceApplication.csproj.CoreCompileInputs.cache
+E:\Gokul\ECommerce\ECommerceApplication\obj\Debug\net6.0\ECommerceApplication.csproj.CopyComplete
+E:\Gokul\ECommerce\ECommerceApplication\obj\Debug\net6.0\ECommerceApplication.dll
+E:\Gokul\ECommerce\ECommerceApplication\obj\Debug\net6.0\refint\ECommerceApplication.dll
+E:\Gokul\ECommerce\ECommerceApplication\obj\Debug\net6.0\ECommerceApplication.pdb
+E:\Gokul\ECommerce\ECommerceApplication\obj\Debug\net6.0\ref\ECommerceApplication.dll
